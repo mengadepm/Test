@@ -1,0 +1,33 @@
+
+1] SVC Payment Gateway Host to Host (H2H) Utility (NEFT and RTGS)
+
+Team Size                     : 4		
+Technology	: Web Application – ASP.Net,  
+	   	  Visual Studio 2015, MS SQL, SFTP Server 
+
+Description:
+
+Sub-membership implementation using H2H will provide the following 
+
+•Empower Sub-member bank to send/receive NEFT/RTGS transaction through H2H 
+•Immediate/real-time & automated file transfer.
+•Very fast.
+•Secure data communication.
+•Supported file type is XML & can be customized to Excel, CSV.
+•Web service based technology, good adaptability .
+•Proper controlling & monitoring.
+•Improved customer service level by reducing TAT. 
+•Streamlining of business processes leading to an increase in operational efficiencies. 
+•Business Process Automation. 
+•More customer satisfaction.
+
+Project Role: Project Manager
+
+Role & Responsibilities:
+	Assembling and coordinating project team members; assigning individual responsibilities.
+	Developing project plans, goals identifying resources needed.
+	Developing schedules and methods for measuring results
+	Code review and guiding team mates
+	Organizing and managing all phases of the project to ensure on-time completion. 
+	Preparing requests and conducting all necessary meetings to facilitate selection of project services and products.
+
