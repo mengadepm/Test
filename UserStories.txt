@@ -1,0 +1,16 @@
+
+Account Details :
+AS a customer, I would like to open Loan Account so that I can Funding for commercial spaces and land plots.
+
+
+Loan Details :
+AS a customer, I Would like to get Low Rate Of Interest for Loan Application.
+
+Payment Schedule :
+ AS acustomer,I want to be able to see the impact of different payment options, such as making extra payments or changing the payment frequency, on my overall loan costs.
+
+Document And Disbursement Schedule
+ AS acustomer,I want to be able to make payments on my loan through the system, including setting up automatic payments.
+
+Builder Details: 
+ AS acustomer,I want to be able to upload supporting documents, such as pay stubs or tax returns, as part of my application.

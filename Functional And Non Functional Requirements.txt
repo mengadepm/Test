@@ -1,0 +1,31 @@
+Functional requirements
+
+1] System should be configurable for addition of new products from the front-end.
+2] System should be able to generate reminders on over due, and reminder letters.
+3] In case of tranche disbursement, system should provide the details of the disbursement; Amount already disbursed, Interest accrued, balance disbursement
+4] System should be able to show charge and amend predefined processing charges.
+
+5] System should be able to define and support different loan Repayment Management (Schedules).
+6] System should link deposit accounts with the loan account e.g. recovery of installments, interest, charges, marking of liens / holds etc.
+7] System should generate a repayment schedule for loans as per type of loan for example Equated Monthly / quarterly installments, staggered payments (part payments over a period of time), balloon payments (final settlement installment usually large sum) etc. 
+
+8]System should generate Interest Advices
+9] On repayment, the relevant loan limit of the customer should get updated.
+10] System should query and print loan register containing loan history details e.g. principal, interest, recoveries etc.  
+11]System should automatically calculate and display the EMI table based upon the total exposure.
+12]System should recovery principle + interest + charges on due date
+
+
+
+
+
+Nonfunctional requirements  
+Some examples of nonfunctional requirements are:
+
+The website pages should load in 3 seconds with the total number of simultaneous users <5 thousand.
+
+The system should be able to handle 20 million users without performance deterioration.
+
+The payment processing gateway must be PCI DSS compliant.
+
+A program running on Windows 10 must be able to run on Windows 11 without any change in its behavior and performance.
