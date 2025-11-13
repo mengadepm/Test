@@ -1,0 +1,131 @@
+Project Manager Job Summary
+
+10+ years’ experience in managing end-to-end implementation, upgrade, and integration projects in Core Banking Systems (Finacle). Skilled in stakeholder management, vendor coordination, and regulatory compliance. Proven track record in delivering high-impact digital banking and payment modernization programs under strict timelines.
+
+SVC Bank LTD
+Project Manager Finacle Core Banking
+Experienced Project Manager with strong expertise in Core Banking Systems (CBS) and digital transformation projects in the BFSI sector. Responsible for end-to-end project delivery, ensuring smooth implementation, migration, and enhancement of banking applications such as Finacle.
+
+The role involves managing cross-functional teams, coordinating with business, technology, and vendor partners, and ensuring that all solutions align with regulatory, compliance, and business objectives of the bank.
+
+Key Skills and Competencies
+
+Strong knowledge of Core Banking Architecture (Customer, Accounts, Deposits, Loans, GL, Payments).
+Expertise in project management methodologies (Agile, Waterfall, or Hybrid).
+Hands-on experience with Finacle  environments.
+Understanding of banking domains – CASA, Lending, Payments and Compliance.
+Proficiency in project tracking tools (JIRA, MS Project, etc.).
+Excellent communication, stakeholder management, and vendor coordination skills.
+Knowledge of API integration, ISO 20022 message formats, and payment rails (UPI, IMPS, NEFT, RTGS).
+
+
+Project Manager – 
+1] NEFT/RTGS Payment Systems: 
+
+Experienced Project Manager with strong expertise in NEFT and RTGS  payment systems within the banking and BFSI domain.
+Proven ability to manage end-to-end project lifecycles from requirement gathering, design, testing, to post-implementation support.
+Skilled in integrating Core Banking Systems (Finacle ) with SFMS gateways and RBI payment networks.
+Hands-on experience in ISO 20022 / SFMS message mapping, including pacs, camt, and pain message types for NEFT/RTGS operations.
+Led system migration, upgrade, and compliance projects, ensuring timely delivery in line with RBI and NPCI regulatory mandates.
+Managed cross-functional coordination with business, IT, operations, and external vendors to deliver high-quality, secure payment solutions.
+Oversaw testing (SIT/UAT), validation of message flows  and ensured smooth go-live implementation.
+Ensured transaction reliability, settlement accuracy, and SLA adherence, minimizing downtime and payment failures.
+Supported reconciliation and exception handling processes, ensuring compliance with T+0/T+1 settlement cycles.
+Strong leadership in project planning, risk management, and stakeholder communication, driving operational excellence in digital payment transformation initiatives.
+
+2]IMPS
+
+Experienced Project Manager specializing in IMPS  implementation, enhancement, and maintenance within the banking and digital payments ecosystem.
+Proven track record of managing end-to-end IMPS projects, from requirement analysis and system design to UAT and production deployment.
+Expertise in Core Banking System (CBS) integration with NPCI switches, payment gateways, and mobile banking applications for real-time fund transfer.
+Hands-on experience with  ISO 20022 message structures and transaction processing flows (P2P, P2A, and merchant payments).
+Coordinated with NPCI, vendors, and internal stakeholders to ensure seamless certification, compliance, and regulatory adherence.
+Led testing, monitoring, and go-live activities, ensuring 24x7 high-availability of IMPS channels with strong transaction performance.
+Implemented reversal, timeout, and exception handling mechanisms to improve success rates and customer experience.
+Oversaw settlement, reconciliation, and reporting processes ensuring accuracy and T+1 settlement .
+Managed project planning, scheduling, and resource allocation to achieve timely delivery and adherence to SLAs.
+Strong skills in stakeholder management, risk assessment, and process optimization, ensuring smooth operation of instant payment systems aligned with digital banking transformation goals.
+
+3]UPI
+
+Experienced Project Manager with expertise in UPI  implementation, enhancement, and compliance within the digital payments ecosystem.
+Proven track record in managing end-to-end UPI projects, including PSP onboarding, API integration, and mobile banking platform alignment.
+Skilled in coordinating with NPCI, Core Banking teams, and third-party vendors for seamless UPI application and backend system integration.
+Strong understanding of UPI transaction flows (P2P, P2M) and message structures under ISO 20022 standards.
+Led successful certification, migration, and upgrade projects, ensuring compliance with NPCI circulars and RBI regulatory requirements.
+Managed functional and technical testing (SIT/UAT), ensuring reliability, performance, and transaction success rate improvements.
+Ensured real-time transaction monitoring, settlement accuracy, and reconciliation through CBS and payment gateways.
+Collaborated across business, IT, operations, and vendor teams, ensuring project timelines and smooth go-live execution.
+Demonstrated strong leadership in digital payment transformation, driving innovation, scalability, and customer-centric solutions in UPI-based ecosystems.
+
+4]ASBA 
+
+Experienced Project Manager specializing in ASBA (Applications Supported by Blocked Amount) implementation, enhancement, and regulatory compliance within the banking and securities ecosystem.
+Proven expertise in managing end-to-end ASBA project lifecycle, including requirement gathering, system design, testing, deployment, and post-go-live support.
+Coordinated integration between Core Banking Systems (CBS), IPO/rights issue platforms, and registrar systems (RTA/SEBI-authorized intermediaries).
+Ensured compliance with SEBI and RBI guidelines, implementing system enhancements for IPO applications,  and rights issues.
+Oversaw API integration and data exchange between banks, exchanges (NSE/BSE), and payment gateways for ASBA fund blocking and unblocking.
+Led UAT and production rollout of new ASBA functionalities ensuring accuracy, real-time fund blocking, and efficient reconciliation.
+Managed stakeholder coordination across business, IT, operations, and external partners including SEBI, NPCI.
+Ensured robust reversal, refund, and exception handling mechanisms to minimize customer complaints and operational risks.
+Prepared detailed project documentation — BRD, FRD, FSD, and regulatory audit reports — aligning with PMO and compliance standards.
+Demonstrated strong leadership in digital investment process automation, driving seamless integration between banking and capital market systems.
+
+5]Core Banking API Testing for migration of CBS:
+Experienced Project Manager with strong expertise in Core Banking System (CBS) migration, modernization, and API testing within the banking and financial services sector.
+Led end-to-end CBS migration projects including requirement analysis, data mapping, API integration, testing, and production rollout.
+Managed API testing and validation between legacy and new CBS platforms to ensure seamless migration of accounts, transactions, and customer data.
+Collaborated with Core Banking vendors (Finacle) and interface teams for system integration and data consistency.
+Oversaw functional, integration, and regression testing for critical banking modules such as CASA, Loans, Deposits, Payments, and GL.
+Ensured data accuracy, security, and reconciliation post-migration, aligning with regulatory and audit standards.
+Coordinated with business, IT, QA, and vendor teams to track defects, manage UAT, and ensure timely project delivery within defined SLAs.
+Implemented automated API testing frameworks for performance validation and transaction flow verification across channels.
+
+6]Digital Fixed Deposit FD Account Opening Automation
+Experienced Project Manager with proven expertise in implementing Digital Fixed Deposit (FD) Account Opening Automation within the banking and fintech ecosystem.
+Led end-to-end delivery of FD digitalization projects, automating account opening, booking, and renewal processes across online and mobile banking platforms.
+Managed integration between Core Banking Systems (CBS), Digital Channels, and Customer Onboarding Platforms to enable real-time FD creation.
+Streamlined customer journeys through automation of KYC, account validation, and e-sign workflows, enhancing onboarding efficiency and reducing turnaround time.
+Collaborated with business, IT, and operations teams to define project scope, milestones, and success metrics aligned with digital transformation goals.
+Oversaw API integration for instant fund transfer, FD booking, maturity payout, and auto-renewal features through digital channels.
+Ensured regulatory and compliance alignment with RBI, internal audit, and information security policies during automation initiatives.
+Managed UAT, production rollout, and post-go-live monitoring, ensuring seamless customer experience and system reliability.
+Coordinated with vendors and technology partners for CBS customization, API enhancements, and automated reporting modules.
+Demonstrated strong leadership in process re-engineering and digital transformation, improving operational efficiency, accuracy, and customer satisfaction in deposit automation.
+
+
+7]Finacle alert System 
+Experienced Project Manager specializing in implementation and enhancement of the Finacle Alert Management System within Core Banking environments.
+Led end-to-end delivery of Finacle alert automation projects for SMS, email, and push notifications covering deposits, loans, and payment transactions.
+Managed integration between Finacle CBS, middleware, and SMS/email gateways to ensure accurate, real-time customer alerts.
+Collaborated with business, IT, and operations teams to define alert rules, event triggers, and notification templates aligned with customer needs.
+Oversaw API and parameter configuration for event-based alerts such as fund transfer, balance updates, cheque clearances, and FD maturity.
+Ensured compliance with RBI guidelines and internal IT security policies for customer data confidentiality and message delivery reliability.
+Coordinated functional, integration, and UAT testing, validating alert workflows and delivery performance across multiple channels.
+Managed vendor coordination with telecom providers and gateway partners for SMS throughput, delivery reports, and SLA adherence.
+Implemented monitoring dashboards and MIS reports for alert delivery performance, failure analysis, and system uptime tracking.
+Demonstrated leadership in Finacle system automation, digital communication enablement, and customer experience enhancement initiatives.
+
+8]Mobile No Updation Utility
+Experienced Project Manager with expertise in managing Mobile Number Updation and Migration Utility projects within Core Banking and digital channels.
+Led end-to-end delivery of mobile number migration initiatives ensuring accurate, secure, and compliant transfer of customer contact data across systems.
+Managed integration between Core Banking System (Finacle ), CRM, and digital banking platforms for seamless data synchronization.
+Oversaw requirement analysis, system design, development, testing, and deployment of utilities to automate customer mobile number updates.
+Ensured data integrity, validation, and encryption during migration in compliance with RBI and information security guidelines.
+Coordinated API and batch process automation for real-time and bulk mobile number update workflows.
+Collaborated with business, IT, operations, and vendor teams to ensure project timelines, UAT sign-offs, and post-implementation stability.
+Implemented audit trails, approval workflows, and exception handling to maintain accuracy and traceability of customer updates.
+Prepared detailed project documentation, including BRD, FRD, FSD, and migration plans aligned with PMO governance.
+Demonstrated strong leadership in data migration, automation, and customer information management, enhancing digital banking service quality and compliance.
+
+9]NEFT/RTGS Integration via H2H for Sub-member Banks
+Experienced Project Manager specializing in NEFT and RTGS integration projects via H2H (Host-to-Host) connectivity for sub-member and sponsor banks.
+Led end-to-end project delivery from requirement gathering and system design to implementation, testing, and regulatory certification.
+Managed integration between sub-member CBS systems and sponsor bank’s payment gateway for seamless NEFT/RTGS transaction processing.
+Oversaw setup of secure H2H connectivity using SFMS  in compliance with RBI and IDRBT guidelines.
+Coordinated with sub-member banks, sponsor banks, and RBI/NPCI teams for onboarding, message exchange, and settlement alignment.
+Handled ISO 20022 message mapping and SFMS message configuration  ensuring end-to-end compatibility.
+Managed SIT/UAT testing, message validation, and production rollout, ensuring zero data loss and high transaction success rates.
+Implemented robust monitoring, reconciliation, and exception handling frameworks for sub-member payment operations.
+Collaborated with vendors, IT security, and network teams to establish encrypted H2H tunnels and real-time transaction reporting mechanisms.
+Demonstrated strong leadership in digital payment infrastructure enablement, enabling sub-member banks to participate in NEFT/RTGS through efficient, secure H2H connectivity.
